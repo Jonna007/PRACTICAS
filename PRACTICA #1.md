@@ -71,68 +71,78 @@ También se usara la terminal de Warp que es un terminal moderno para desarrolla
 
 Figura 1. Comando **"pwd"**.
 
-<img width="265" alt="paso1" src="https://github.com/user-attachments/assets/c6098316-9259-4acb-8e1f-22cd12ce8392" />
+![image](https://github.com/user-attachments/assets/28f32f6d-e289-4dfa-a43c-2b230a4e469b)
+
 
 **Paso 2:** Se creo  una carpeta denominada `proyecto_comandos` y dentro de ella, tres subcarpetas denominadas `documentos`, `imagenes` y `scripts`.
 
 Figura 2. Comando **"mkdir"**.
 
-<img width="348" alt="paso2" src="https://github.com/user-attachments/assets/98302bf7-d92f-475d-9b11-0bee37adee06" />
+![image](https://github.com/user-attachments/assets/fdf8d50b-cbe7-4635-91b5-ce1b1c73d174)
+
 
 
 **Paso 3:** Dentro de la carpeta `documentos`, se creó un archivo llamado `notas.txt` y se  añadieron  tres líneas de texto usando el comando `nano`
 
 Figura 3. Comando **"touch"**..
 
-<img width="318" alt="paso3" src="https://github.com/user-attachments/assets/847ca34a-e873-4d23-b11f-6fc13e9b0949" />
-<img width="113" alt="paso3 1" src="https://github.com/user-attachments/assets/473db2c7-f1a9-4c42-b31f-15678896dc51" />
+![image](https://github.com/user-attachments/assets/e47d8996-dfd0-410d-8205-d1dc65f63bd5)
+![image](https://github.com/user-attachments/assets/9f8e0e7b-4306-4380-bf08-7b8a58058755)
+
 
 
 **Paso 4:** Se copio `notas.txt` a la carpeta `scripts` y se modifico su nombre a `backup_notas.txt`.
 
 Figura 4. Comando **"mv"**..
 
-<img width="320" alt="paso4" src="https://github.com/user-attachments/assets/2359749a-8033-4251-8ec6-d0e182857bd0" />
+![image](https://github.com/user-attachments/assets/21d1a3ad-a903-4a66-bceb-8108053e1829)
+![image](https://github.com/user-attachments/assets/cca94d20-ad98-4486-856a-fbcd5b10effa)
 
 
 **Paso 5:** Se envió el archivo`backup_notas.txt` a la carpeta `imagenes`.
 
 Figura 5. Comando **"mv"**.
 
-<img width="290" alt="paso5" src="https://github.com/user-attachments/assets/2e21442a-9cb7-4a3a-96fa-b9df29868c28" />
+![image](https://github.com/user-attachments/assets/4beb23e9-2f38-42a4-8bfc-31be97058dca)
+
 
 
 **Paso 6:** Se creó un nuevo archivo llamado `resumen.txt` dentro de la carpeta `documentos` y se redirecionó el contenido de `notas.txt` a este archivo.
 
 Figura 6. Comando **"cat"**.
 
-<img width="308" alt="paso6" src="https://github.com/user-attachments/assets/97b54b30-f484-439b-819d-157a2795c449" />
+![image](https://github.com/user-attachments/assets/8924f456-72f3-453c-9d62-61ea77af23d5)
+![image](https://github.com/user-attachments/assets/98d4ab94-a1ae-4b9e-ab08-307c7963e0a9)
+
 
 **Paso 7:** Se añadió una nueva línea de texto sin sobrescribir lo que ya estaba en `resumen.txt`
 
 Figura 7. Comando **"echo"**.
 
-<img width="385" alt="paso7" src="https://github.com/user-attachments/assets/7f2c9a6f-5b9a-4c99-968b-fd461ca9e542" />
+![image](https://github.com/user-attachments/assets/cb2bf1d7-bea4-4dd1-9b97-22a91ed47d57)
+
 
 
 **Paso 8:** Se eliminó el archivo `backup_notas.txt` de la carpeta `imagenes` usando el comando `rm`, y luego eliminé la carpeta `imagenes` con `rmdir`estando vacía.
 
 Figura 8. Comando **"rm"**.
 
-<img width="330" alt="paso8" src="https://github.com/user-attachments/assets/a8a842fe-ccf0-4753-a2ab-344119850375" />
-<img width="310" alt="paso8 1" src="https://github.com/user-attachments/assets/1adc8340-15f9-47f7-b647-e6acc2dd07d3" />
+![image](https://github.com/user-attachments/assets/faf1acec-90a6-43c2-bd2a-deeab3ada77c)
+![image](https://github.com/user-attachments/assets/a974d901-9976-43e6-8a1b-d9b2468561c2)
+
 
 **Paso 9:** Se extrajo el historial de todos los comandos que se ejecutaron  en un archivo llamado `tarea-s1-nombre_apellido.txt` usando el comando `history`
 
 Figura 9. Comando **"history"**.
 
-<img width="420" alt="paso9" src="https://github.com/user-attachments/assets/a1aca633-03af-409d-8a19-d33915008a35" />
+![image](https://github.com/user-attachments/assets/22c187c3-9d5a-44d4-ad9b-21e911c2e805)
+
 
 **Paso 10:** Se sustituyó el nombre_apellido" por mi nombre y apellido correspondiente.
 
 Figura 10. Comando **"mv"**.
 
-<img width="522" alt="paso10" src="https://github.com/user-attachments/assets/4beb0ff5-0355-4409-ac25-f3dc162a22ed" />
+![image](https://github.com/user-attachments/assets/06a0dcd7-04fc-425a-bf41-990b5b7eb8fd)
 
 
 ## 9. Resultados esperados:
@@ -147,7 +157,7 @@ El uso de **Warp** en macOS brindó una experiencia más fluida, moderna y visua
 
 En resumen, fue una buena práctica para comprender y dominar de mejor manera los comandos de Linux y aprender a organizarme mejor desde la terminal.
 
-<img width="723" alt="resultado" src="https://github.com/user-attachments/assets/67fae6c3-a389-4a53-866a-7eda54ecea81" />
+
 
 
 ## 10. Bibliografía
