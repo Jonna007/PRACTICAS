@@ -38,7 +38,7 @@ Un comando Linux es un programa o utilidad que se ejecuta en la CLI, una consola
 
 Los comandos de Linux se ejecutan en el terminal pulsando "Enter" al final de la línea. Puedes ejecutar comandos para realizar diversas tareas, desde la instalación de paquetes hasta la gestión de usuarios y la manipulación de archivos.
 
-También se usara la terminal de Warp que es un terminal moderno para desarrolladores, diseñado especialmente para sistemas macOS, afirma Khattab, A., Camp, J., Hunter, C., Murphy, P., Sabharwal, A., & Knightly, E. W. (2008).
+También se usara la terminal de Warp que es un terminal moderno para desarrolladores, afirma Khattab, A., Camp, J., Hunter, C., Murphy, P., Sabharwal, A., & Knightly, E. W. (2008).
 
 ## 5. Objetivos a alcanzar
    
@@ -84,7 +84,7 @@ Figura 2. Comando **"mkdir"**.
 
 **Paso 3:** Dentro de la carpeta `documentos`, se creó un archivo llamado `notas.txt` y se  añadieron  tres líneas de texto usando el comando `nano`
 
-Figura 3. Comando **"touch"**..
+Figura 3. Comando **"notepad"**..
 
 ![image](https://github.com/user-attachments/assets/e47d8996-dfd0-410d-8205-d1dc65f63bd5)
 ![image](https://github.com/user-attachments/assets/9f8e0e7b-4306-4380-bf08-7b8a58058755)
@@ -153,11 +153,12 @@ Después de completar todos los pasos, pude manejar mejor la terminal. Logré cr
 
 También entendí cómo funciona la redirección y cómo combinar contenido de un archivo a otro, lo cual fue súper útil para automatizar tareas básicas. Finalmente, guardé todo mi historial de comandos en un archivo, lo que me ayudó a revisar qué hice paso a paso. 
 
-El uso de **Warp** en macOS brindó una experiencia más fluida, moderna y visual al trabajar con la terminal, pero sin alterar la esencia de los comandos tradicionales.
+El uso de **Warp**  brindó una experiencia más fluida, moderna y visual al trabajar con la terminal, pero sin alterar la esencia de los comandos tradicionales.
 
 En resumen, fue una buena práctica para comprender y dominar de mejor manera los comandos de Linux y aprender a organizarme mejor desde la terminal.
 
 
+![image](https://github.com/user-attachments/assets/fa333449-0342-4be5-912c-99b8159d60e2)
 
 
 ## 10. Bibliografía
