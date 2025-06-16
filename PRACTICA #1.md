@@ -71,7 +71,7 @@ También se usara la terminal de Warp que es un terminal moderno para desarrolla
 
 Figura 1. Comando **"pwd"**.
 
-<img width="265" alt="paso1" src="https://github.com/user-attachments/assets/c6098316-9259-4acb-8e1f-22cd12ce8392" />
+https://github.com/Jonna007/PRACTICAS/blob/main/imagenes/1.png
 
 **Paso 2:** Se creo  una carpeta denominada `proyecto_comandos` y dentro de ella, tres subcarpetas denominadas `documentos`, `imagenes` y `scripts`.
 
