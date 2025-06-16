@@ -71,13 +71,15 @@ También se usara la terminal de Warp que es un terminal moderno para desarrolla
 
 Figura 1. Comando **"pwd"**.
 
-https://github.com/Jonna007/PRACTICAS/blob/main/imagenes/1.png
+![image](https://github.com/user-attachments/assets/28f32f6d-e289-4dfa-a43c-2b230a4e469b)
+
 
 **Paso 2:** Se creo  una carpeta denominada `proyecto_comandos` y dentro de ella, tres subcarpetas denominadas `documentos`, `imagenes` y `scripts`.
 
 Figura 2. Comando **"mkdir"**.
 
-<img width="348" alt="paso2" src="https://github.com/user-attachments/assets/98302bf7-d92f-475d-9b11-0bee37adee06" />
+![image](https://github.com/user-attachments/assets/fdf8d50b-cbe7-4635-91b5-ce1b1c73d174)
+
 
 
 **Paso 3:** Dentro de la carpeta `documentos`, se creó un archivo llamado `notas.txt` y se  añadieron  tres líneas de texto usando el comando `nano`
